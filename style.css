@@ -4,6 +4,8 @@ section {
 
 section img {
 	position: absolute;
+	display: block;
+    	margin: 0 auto;
 }
 
 .top {
